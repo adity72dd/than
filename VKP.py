@@ -452,7 +452,7 @@ def myinfo_command(message):
             )
             markup = types.InlineKeyboardMarkup()
             button1 = types.InlineKeyboardButton(text="☣️ 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗢𝘄𝗻𝗲𝗿 ☣️",
-                                                 url="https://t.me/@PATHAN_STORE_X")
+                                                 url="https://t.me/+4uOtNkByENg1Y2Jl")
             button2 = types.InlineKeyboardButton(
                 text="💸 𝗣𝗿𝗶𝗰𝗲 𝗟𝗶𝘀𝘁 💸", url="https://t.me/+jYFdVGLqjas3MDll")
             markup.add(button1)
@@ -473,7 +473,7 @@ def myinfo_command(message):
             )
             markup = types.InlineKeyboardMarkup()
             button = types.InlineKeyboardButton(
-                text="❤‍🩹 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 ❤‍🩹", url="https://t.me/+jYFdVGLqjas3MDll")
+                text="❤‍🩹 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 ❤‍🩹", url="https://t.me/+4uOtNkByENg1Y2Jl")
             markup.add(button)
 
         bot.send_message(message.chat.id,
@@ -529,7 +529,7 @@ def owner_command(message):
     response = (
         "*👤 **Owner Information:**\n\n"
         "For any inquiries, support, or collaboration opportunities, don't hesitate to reach out to the owner:\n\n"
-        "📩 **Telegram:** @PATHAN_STORE_X\n\n"
+        "📩 **Telegram:** @Riyahacksyt\n\n"
         "💬 **We value your feedback!** Your thoughts and suggestions are crucial for improving our service and enhancing your experience.\n\n"
         "🌟 **Thank you for being a part of our community!** Your support means the world to us, and we’re always here to help!*\n"
     )
@@ -559,7 +559,7 @@ def canary_command(message):
     markup = types.InlineKeyboardMarkup()
     button1 = types.InlineKeyboardButton(
         text="📱 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗙𝗼𝗿 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 📱",
-        url="https://t.me/c/2058022179/207")
+        url="https://t.me/+4uOtNkByENg1Y2Jl")
     button2 = types.InlineKeyboardButton(
         text="🍎 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗳𝗼𝗿 𝗶𝗢𝗦 🍎",
         url="https://apps.apple.com/in/app/surge-5/id1442620678")
