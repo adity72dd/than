@@ -88,9 +88,9 @@ async def start_asyncio_loop():
 def create_inline_keyboard():
     markup = types.InlineKeyboardMarkup()
     button3 = types.InlineKeyboardButton(
-        text="❤‍🩹 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 ❤‍🩹", url="https://t.me/+jYFdVGLqjas3MDll")
+        text="❤‍🩹 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹 ❤‍🩹", url="https://t.me/+4uOtNkByENg1Y2Jl")
     button1 = types.InlineKeyboardButton(text="👤 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗢𝘄𝗻𝗲𝗿 👤",
-        url="-t.me/@PATHAN_STORE_X")
+        url="-t.me/@Riyahacksyt")
     markup.add(button3)
     markup.add(button1)
     return markup
